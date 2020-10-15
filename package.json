@@ -1,0 +1,18 @@
+{
+  "name": "prayer-times-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adhan": "^4.0.1",
+    "find-nearest-cities": "^1.0.0",
+    "lodash": "^4.17.20",
+    "nandbox-bot-api": "^1.2.18"
+  }
+}

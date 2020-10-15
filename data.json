@@ -1,0 +1,18 @@
+{
+  "locations": [
+    {
+      "coord": { "lat": 30.06263, "long": 31.24967 },
+      "id": "360630",
+      "name": "Cairo, EG",
+      "channels": ["90090684271873242"],
+      "nextPrayerName": "asr"
+    },
+    {
+      "coord": { "lat": 25.29194, "long": 51.42444 },
+      "id": "289888",
+      "name": "Ar Rayyān, QA",
+      "channels": ["90090684282674333"],
+      "nextPrayerName": "maghrib"
+    }
+  ]
+}
